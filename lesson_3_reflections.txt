@@ -30,4 +30,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When we need to do some new features or experimental features then we will use 
+    then we will use seprate branch .
+    It help us to collaborate our changes to group first then we cann add it to master.
+    If we directly change our master then we dont face any conflict during collaboration. 
